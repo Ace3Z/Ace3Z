@@ -6,7 +6,7 @@ $ whoami
 
 <p align="center">
   <a href="https://mahbodtajdini.com/">Portfolio</a> &nbsp;•&nbsp;
-  <a href="https://mahbodtajdini.com/Mahbod_Tajdini_CV.pdf">CV</a> &nbsp;•&nbsp;
+  <a href="https://mahbodtajdini.com/MTajdini_CV.pdf">CV</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/mahbodtajdini">LinkedIn</a> &nbsp;•&nbsp;
   <a href="mailto:mahbodtajdini@gmail.com">Email</a>
 </p>
