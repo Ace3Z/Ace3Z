@@ -15,7 +15,7 @@ $ whoami
 👨🏻‍💻 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/git-home.gif" min-width="300px" max-width="200px" width="250px" align="right">
 Student @ ETH Zürich & UZH <br>
 🇨🇭 Based in Zürich, Switzerland <br>
-🔬 Interests: 3D computer vision — visual SLAM, 3D reconstruction, scene understanding, and multi-view geometry <br>
+🔬 Interests: 3D computer vision, mixed reality, robotics, and related fields in computer vision <br>
 📫 Reach me at: <a href="mailto:mahbodtajdini@gmail.com">mahbodtajdini@gmail.com</a>
 
 
