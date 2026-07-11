@@ -16,7 +16,6 @@
 - 🎓 &nbsp;MSc Data Science student at **ETH Zürich** & **University of Zürich**
 - 🇨🇭 &nbsp;Based in Zürich, Switzerland
 - 🔬 &nbsp;Research interests span **3D computer vision**, **mixed reality**, and **robot perception**
-- 📫 &nbsp;Reach me at **<a href="mailto:mahbodtajdini@gmail.com">mahbodtajdini@gmail.com</a>**
 
 <br clear="right">
 
