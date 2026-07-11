@@ -2,12 +2,11 @@
   <img src="./whoami.svg" alt="$ whoami — Mahbod Tajdini" />
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://mahbodtajdini.com/">Mahbod</a> 👋</h1>
+<!--  <h1 align="center">Hi, I'm <a href="https://mahbodtajdini.com/">Mahbod</a> 👋</h1> -->
 
 <p align="center">
+  <a href="https://mahbodtajdini.com/">Portfolio</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/mahbodtajdini">LinkedIn</a> &nbsp;•&nbsp;
-  <a href="https://mahbodtajdini.com/MTajdini_CV.pdf">CV</a> &nbsp;•&nbsp;
-  <a href="mailto:mahbodtajdini@gmail.com">Email</a>
 </p>
 
 ---
