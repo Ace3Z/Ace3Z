@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://mahbodtajdini.com/">Portfolio</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/mahbodtajdini">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/mahbodtajdini">LinkedIn</a> &nbsp;
 </p>
 
 ---
