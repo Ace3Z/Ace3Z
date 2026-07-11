@@ -21,14 +21,14 @@
 
 <br clear="right">
 
-<!-- Animated contribution graph (self-hosted SVG, refreshed daily by .github/workflows/update-profile-art.yml) -->
+<!-- Animated contribution graph (self-hosted SVG, refreshed daily by .github/workflows/update-profile-art.yml) 
 <p align="center">
   <img src="./contrib-heatmap.svg" alt="GitHub contribution graph" width="860" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ace3Z&theme=github-dark&hide_border=true" alt="Streak Stats" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="mailto:mahbodtajdini@gmail.com"><img alt="Email Mahbod" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/naren/mailput.gif" height="28" valign="middle" /></a>
