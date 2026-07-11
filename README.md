@@ -21,12 +21,11 @@
 
 <br clear="right">
 
-<!-- Animated contribution graph (self-hosted SVG, refreshed daily by .github/workflows/update-profile-art.yml) 
+<!-- Animated contribution graph (self-hosted SVG, refreshed daily by .github/workflows/update-profile-art.yml) -->
 <p align="center">
   <img src="./contrib-heatmap.svg" alt="GitHub contribution graph" width="860" />
 </p>
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ace3Z&theme=github-dark&hide_border=true" alt="Streak Stats" />
 </p> -->
 
