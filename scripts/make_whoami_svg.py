@@ -22,7 +22,6 @@ STATIC = bool(os.environ.get("STATIC"))
 GREEN, INK, MUTED, ACCENT = "#3fb950", "#c9d1d9", "#7d8590", "#58a6ff"
 LINES = [
     [("mahbod@github", GREEN), (":~$ ", MUTED), ("whoami", INK)],
-    [("Mahbod Tajdini", INK)],
 ]
 
 CHARW = 9.6           # monospace advance at FONT
