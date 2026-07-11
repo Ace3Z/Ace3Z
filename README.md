@@ -1,6 +1,6 @@
-```
-$ whoami
-```
+<p align="center">
+  <img src="./whoami.svg" alt="$ whoami — Mahbod Tajdini" />
+</p>
 
 <h1 align="center">Hi, I'm <a href="https://mahbodtajdini.com/">Mahbod</a> 👋</h1>
 
