@@ -13,7 +13,7 @@
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/git-home.gif" width="250px" align="right">
 
-- 🎓 &nbsp;MSc Data Science student at **ETH Zürich** & **University of Zürich**
+- 🎓 &nbsp;MSc Computer Science student at **ETH Zürich** & **University of Zürich**
 - 🇨🇭 &nbsp;Based in Zürich, Switzerland
 - 🔬 &nbsp;Research interests span **3D computer vision**, **mixed reality**, and **robot perception**
 
