@@ -11,7 +11,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/git-home.gif" width="250px" align="right">
+<img src="koi/koi.gif" width="256" align="right" alt="My koi, redrawn every night from my GitHub activity">
 
 - 🎓 &nbsp;MSc Computer Science student at **ETH Zürich** & **University of Zürich**
 - 🇨🇭 &nbsp;Based in Zürich, Switzerland
