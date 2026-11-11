@@ -19,7 +19,9 @@
 
 <br clear="right">
 
-🛠️ &nbsp;Open-source contributions
+<details>
+<summary><b>🛠️ &nbsp;Open-source contributions</b></summary>
+<br>
 
 <p align="center">
 <a href="https://github.com/huggingface/transformers"><picture><source media="(prefers-color-scheme: dark)" srcset="contrib/transformers-dark.svg"><img src="contrib/transformers-light.svg" alt="huggingface/transformers: Fixed a processor bug that silently dropped flat kwargs" width="49%"></picture></a>
@@ -32,6 +34,8 @@
 <p align="center">
 <a href="https://github.com/cvg/lamaria"><picture><source media="(prefers-color-scheme: dark)" srcset="contrib/lamaria-dark.svg"><img src="contrib/lamaria-light.svg" alt="cvg/lamaria: Caught an evaluation bug that inflated pose recall" width="49%"></picture></a>
 </p>
+
+</details>
 
 <!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ace3Z&theme=github-dark&hide_border=true" alt="Streak Stats" />
