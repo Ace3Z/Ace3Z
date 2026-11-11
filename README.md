@@ -19,6 +19,20 @@
 
 <br clear="right">
 
+🛠️ &nbsp;Open-source contributions
+
+<p align="center">
+<a href="https://github.com/huggingface/transformers"><picture><source media="(prefers-color-scheme: dark)" srcset="contrib/transformers-dark.svg"><img src="contrib/transformers-light.svg" alt="huggingface/transformers: Fixed a processor bug that silently dropped flat kwargs" width="49%"></picture></a>
+<a href="https://github.com/huggingface/lerobot"><picture><source media="(prefers-color-scheme: dark)" srcset="contrib/lerobot-dark.svg"><img src="contrib/lerobot-light.svg" alt="huggingface/lerobot: Made dataset merges keep the original episode videos intact" width="49%"></picture></a>
+</p>
+<p align="center">
+<a href="https://github.com/roboflow/supervision"><picture><source media="(prefers-color-scheme: dark)" srcset="contrib/supervision-dark.svg"><img src="contrib/supervision-light.svg" alt="roboflow/supervision: Shipped threaded video prefetching and smarter PolygonZone triggers, and squashed two empty-detection bugs" width="49%"></picture></a>
+<a href="https://github.com/google-deepmind/formal-conjectures"><picture><source media="(prefers-color-scheme: dark)" srcset="contrib/formal-conjectures-dark.svg"><img src="contrib/formal-conjectures-light.svg" alt="google-deepmind/formal-conjectures: Proved three Erdős problem statements" width="49%"></picture></a>
+</p>
+<p align="center">
+<a href="https://github.com/cvg/lamaria"><picture><source media="(prefers-color-scheme: dark)" srcset="contrib/lamaria-dark.svg"><img src="contrib/lamaria-light.svg" alt="cvg/lamaria: Caught an evaluation bug that inflated pose recall" width="49%"></picture></a>
+</p>
+
 <!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ace3Z&theme=github-dark&hide_border=true" alt="Streak Stats" />
 </p> -->
